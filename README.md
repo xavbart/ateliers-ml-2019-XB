@@ -1,5 +1,12 @@
 # ateliers-ml-2019
 
+### Before all : to re-align with the forked repo git remote -v
+`git remote add upstream https://github.com/42-AI/ateliers-ml-2019.git`
+`git fetch upstream`
+`git checkout master`
+`git commit -m 'previous week s work'`
+`git merge upstream/master`
+
 ## Installation de python et de ses modules
 
 Nous utiliserons Miniconda, qui permet d'installer un environnement minimal pour Python. Vous devrez installer Miniconda dans le sgoinfre. Pour ce faire:
