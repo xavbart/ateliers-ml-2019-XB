@@ -7,6 +7,16 @@
 `git commit -m 'previous week s work'`
 `git merge upstream/master`
 
+### Conda environment to reactivae proper
+`source activate AtelierML` ou `source activate AtelierML`
+AtelierML ou encore LabML
+`conda deactivate`
+
+to find which `conda info --envs`
+
+ensuite :
+`jupyter notebook`
+
 ## Installation de python et de ses modules
 
 Nous utiliserons Miniconda, qui permet d'installer un environnement minimal pour Python. Vous devrez installer Miniconda dans le sgoinfre. Pour ce faire:
